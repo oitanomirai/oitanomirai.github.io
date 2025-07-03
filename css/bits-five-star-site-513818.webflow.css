@@ -149,7 +149,7 @@ label {
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 5px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   display: block;
 }
@@ -174,7 +174,7 @@ figcaption {
   text-align: center;
   margin-top: 8px;
   font-family: Merriweather, serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 300;
 }
 
@@ -330,7 +330,7 @@ figcaption {
   text-transform: none;
   margin-left: 40px;
   margin-right: 20px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
   line-height: 120%;
   text-decoration: none;
@@ -373,7 +373,7 @@ figcaption {
   text-align: left;
   margin-bottom: 20px;
   font-family: Open Sans, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 145%;
 }
@@ -407,7 +407,7 @@ figcaption {
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-right: 8px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
   display: inline-block;
 }
@@ -581,7 +581,7 @@ figcaption {
 .post-info-wrapper {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .menu-icon {
@@ -653,21 +653,21 @@ figcaption {
 
 .sidebar-copy h1 {
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
 }
 
 .sidebar-copy p {
   margin-bottom: 10px;
   font-family: Merriweather, serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
 }
 
 .sidebar-copy h2, .sidebar-copy h3 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 125%;
 }
 
@@ -870,7 +870,7 @@ figcaption {
 }
 
 .text-block {
-  font-size: 12px;
+  font-size: 14px;
   display: inline-block;
 }
 
@@ -1075,14 +1075,14 @@ figcaption {
     width: auto;
     margin-left: 20px;
     margin-right: 20px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
 @media screen and (max-width: 479px) {
   .button {
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .header-section {
@@ -1113,7 +1113,7 @@ figcaption {
 
   .post-content, .post-summary {
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .social-link-group {
@@ -1134,7 +1134,7 @@ figcaption {
     color: var(--dark-slate-gray-3);
     margin-top: 100px;
     margin-right: 10px;
-    font-size: 10px;
+    font-size: 14px;
   }
 
   .footer {
@@ -1152,7 +1152,7 @@ figcaption {
 
   .list {
     font-family: Open Sans, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 160%;
   }
 
@@ -1175,19 +1175,19 @@ figcaption {
 
   .code-embed {
     width: 100%;
-    font-size: 12px;
+    font-size: 14px;
     overflow: hidden;
   }
 
   .code-embed-2 {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .main-subheading-2 {
     color: var(--dark-slate-gray-3);
     margin-top: 0;
     margin-right: 10px;
-    font-size: 10px;
+    font-size: 14px;
   }
 
   .bold-text-10, .bold-text-11, .heading-5, .bold-text-12, .heading-6 {
